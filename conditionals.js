@@ -1,12 +1,12 @@
 
-const temperature = 50;
+const raining = false;
 
 
 
 
 
-if (temperature < -40 || temperature > 40) {
+if (!raining) {
 
-	console.log("Maybe going outside isn't such a great idea…");
+	console.log("Leave your umbrella at home!");
 
 } 
