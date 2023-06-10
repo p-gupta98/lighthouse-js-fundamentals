@@ -1,12 +1,11 @@
 
 
-const sayHello = function (name) {
+const sayHelloToConsole = function (name) {
 
 
 	console.log("Hello, " + name);
 
 }
 
-sayHello("Caliban");
-sayHello("Miranda");
-sayHello("Ferdinand");
+sayHelloToConsole("John");
+
